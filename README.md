@@ -1,8 +1,8 @@
-## Kolping Academie Feedback Automation
+# Kolping Academie Feedback Automation
 
 ## Overview
 
-This repository contains a Python script designed to automate the process of filling in a feedback form for the Kolping organization. The script utilizes the Selenium framework to interact with the feedback form's web interface, allowing users to streamline the feedback submission process.
+  This repository contains a Python script designed to automate the process of filling in a feedback form for the Kolping organization. The script utilizes the Selenium framework to interact with the feedback form's web interface, allowing users to streamline the feedback submission process.
 
 ## Features
 
@@ -18,25 +18,21 @@ This repository contains a Python script designed to automate the process of fil
 
 ## Usage
 
-  Clone the Repository: Clone this repository to your local machine using Git.
-
-  bash
+  Clone the Repository: Clone this repository to your local machine using Git
 
     git clone https://github.com/your-username/kolping-feedback-automation.git
 
 ## Install Dependencies: Install the required Python dependencies using pip.
 
-  bash
-
     pip install -r requirements.txt
 
-## Download ChromeDriver: Download the ChromeDriver executable corresponding to your Chrome version from the ChromeDriver website. Ensure that the ChromeDriver executable is in your system's PATH or specify its location in the script.
+## Download ChromeDriver: 
+  Download the ChromeDriver executable corresponding to your Chrome version from the ChromeDriver website. Ensure that the ChromeDriver executable is in your system's PATH or specify its location in the script.
 
-Run the Script: Execute the script using Python.
-
-bash
-
-    python kolping.py
+## Run the Script: 
+  Execute the script using Python.
+  
+    python3 kolping.py
 
 ## Customization
 
@@ -45,4 +41,4 @@ bash
 
 ## Contributing
 
-Contributions to this project are welcome! Feel free to submit bug reports, feature requests, or pull requests via GitHub.
+  Contributions to this project are welcome! Feel free to submit bug reports, feature requests, or pull requests via GitHub.
